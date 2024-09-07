@@ -29,7 +29,8 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0 20px 0;
+    padding: 20px 120px 20px 120px;
+
 }
 
 .header_link {
@@ -60,9 +61,10 @@ a{
 .first-section__text-block {
     color: #FBFAF7;
     max-width: 491px;
+    padding-top: 120px;
 }
 
-.section__titl{
+.section__title{
     font-size: 48px;
     font-weight: bold;
 }
